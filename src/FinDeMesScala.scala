@@ -14,5 +14,5 @@ object FinDeMesScala extends App {
       dani = dani + pieces(1).toDouble 
     }
   }
-  println("dani gasto " + dani + " y johanna " + johanna + " por lo que dani le debe a johanna " + (johanna - dani) / 2)
+  println("dani gasto " + dani + " y johanna " + johanna + " por lo que dani le debe a johanna la cantidad de " + (johanna - dani) / 2)
 }
