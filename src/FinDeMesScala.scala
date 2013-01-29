@@ -1,5 +1,7 @@
 import scala.io.Source
 
+//TODO mejorar el programa para ir aprendiendo mas de scala
+
 object FinDeMesScala extends App {
 
  
